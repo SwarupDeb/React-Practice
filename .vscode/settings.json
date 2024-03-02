@@ -1,0 +1,15 @@
+{
+    "json.schemas": [
+
+    ],
+    "workbench.statusBar.visible": true,
+    "cSpell.enableFiletypes": [
+        "ejs",
+        "jsx",
+        "jsx-attr",
+        "sql",
+        "tailwindcss",
+        "xml"
+    ],
+    "cSpell.language": "en,lorem"
+}
