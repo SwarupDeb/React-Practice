@@ -12,3 +12,8 @@ Reconciliation is the algorithm behind what is popularly understood as the "Virt
  ->Here a concept come in the picture why we should introduce keys?
  ->We have to use keys because of lists is performed using keys.Keys should be stable,predictable and unique.
  ```
+
+```
+Why we use Link insted of a tag in react?
+It is because Link is used to navigate to another page in react without reloading the page itself.
+``
