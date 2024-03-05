@@ -16,4 +16,9 @@ Reconciliation is the algorithm behind what is popularly understood as the "Virt
 ```
 Why we use Link insted of a tag in react?
 It is because Link is used to navigate to another page in react without reloading the page itself.
-``
+```
+
+```
+
+useDispatch() -> dispatch always change store value using reducers
+```
